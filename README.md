@@ -1,4 +1,5 @@
 Product Filter (Java File Handling Task)
+
 📌 **Overview**
 
 This project demonstrates file handling in Java by reading data from a CSV file, applying filtering conditions, and writing the filtered results into a new CSV file.
@@ -6,6 +7,7 @@ It is part of a learning exercise to practice reading/writing text files, parsin
 
 **🛠 Tools & Technologies
 **
+
 Java (JDK 8+ recommended)
 
 IDE: IntelliJ IDEA / Eclipse / VS Code
@@ -14,6 +16,7 @@ File Types: CSV (Comma-Separated Values)
 
    ** **  🔑 Key Concepts**
 **
+
 File handling (FileReader, BufferedReader, FileWriter)
 
 Reading text files line by line
